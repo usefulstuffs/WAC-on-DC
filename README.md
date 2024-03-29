@@ -18,10 +18,6 @@ Register-WACLocalCredSSP
 
 Once it is done, you can try WAC on DC!
 
-## Patched previous versions
+## Patched stable versions
 
-Old Windows Admin Center with patched for installation on Domain Controller can be access from [here](https://github.com/shiroinekotfs/WAC-on-DC/tree/master/.previous-version).
-
-> Note
->
-> Please download both `.cab` and `.msi` with it.
+Stable Windows Admin Center with patchs for installation on Domain Controller can be access from [here](https://github.com/usefulstuffs/WAC-on-DC/releases).
